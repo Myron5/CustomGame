@@ -191,7 +191,6 @@ COLS = 150
 TILE_SIZE = SCREEN_HEIGHT // ROWS
 TILE_TYPES = 17
 FLOOR_LEVEL = 500
-clock = pygame.time.Clock()
 FPS = 60
 
 screen = pygame.display.set_mode((SCREEN_WIDTH, SCREEN_HEIGHT))
