@@ -2,7 +2,7 @@
 
 <h2>  💻 Установка</h2>
 <ul>
-  <li>  Розпакуйте файл <code>EXE.zip</code></li>
+  <li>  Розпакуйте файл <code>EXE.zip</code> <a href="https://downgit.github.io/#/home?url=https://github.com/Myron5/CustomGame/tree/main/EXE">Download</a></li>
   <li>  Запустіть <code>main.exe</code></li>
 </ul>
 
